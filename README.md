@@ -32,7 +32,7 @@ I'm a Computer Science graduate passionate about solving real-world problems usi
 ## 🛠️ Technical Skills  
 - **Programming Languages**: Python, SQL, C, C++
 - **Web & API Development**: FastAPI, Flask, React, Streamlit, JavaScript, HTML, CSS, Bootstrap, SQL, MongoDB, PH
-- **Machine Learning & AI:*( TensorFlow, PyTorch, Keras, Scikit-learn, NLP, Generative AI (LLMs, RAG, GAN), Hugging Face, LangChain, YOLO 
+- **Machine Learning & AI**: TensorFlow, PyTorch, Keras, Scikit-learn, NLP, Generative AI (LLMs, RAG, GAN), Hugging Face, LangChain, YOLO 
 - **Cloud Platforms & DevOps**: AWS (EKS, ECR, EC2, RDS, DynamoDB, CloudWatch, SNS, Cognito, Lambda, API Gateway), Azure (Data Factory, Databricks, Blob Storage), Docker, Kubernetes, CI/CD 
 - **Data & Visualization**: Pandas, Power BI, Looker Studio, Streamlit, Tableau, MiniTab
 
