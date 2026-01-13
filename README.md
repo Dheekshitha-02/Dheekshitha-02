@@ -17,12 +17,12 @@ Here are some ideas to get you started:
 
 Welcome to my GitHub!
 
-I'm a Computer Science graduate passionate about solving real-world problems using machine learning, data analytics, cloud infrastructure, and software engineering. With hands-on experience across LLM applications, predictive modeling, cloud-native systems, and automation tools, I enjoy building scalable and intelligent solutions that make a measurable impact.
+I'm a Computer Science graduate passionate about solving real-world problems using AI Agents, machine learning, data analytics, cloud infrastructure, and software engineering. With hands-on experience across LLM applications, predictive modeling, cloud-native systems, and automation tools, I enjoy building scalable and intelligent solutions that make a measurable impact.
 
 📍 Currently open to full-time opportunities in:  
+- Software Engineering
 - Machine Learning / AI Engineering  
 - Data Science / Data Engineering  
-- Cloud & MLOps  
 - Backend / Full-Stack Development 
 
 📧 dheekshithawd01@gmail.com | 🌐 [LinkedIn](https://www.linkedin.com/in/sai-dheekshitha-kamisetty-a547801a0/) | 🖥️ [GitHub](https://github.com/Dheekshitha-02)  
