@@ -60,4 +60,4 @@ LLM-based AI-powered nutrition analysis web app.
 ---
 
 ## 📫 Let's Connect!  
-💼 [LinkedIn](https://www.linkedin.com/in/sai-dheekshitha-kamisetty-a547801a0/) | 📧 *Email:* dheekshithawd01@gmail.com
+💼 [LinkedIn](https://www.linkedin.com/in/dheekshitha-k-a547801a0/) | 📧 *Email:* dheekshithawd01@gmail.com
